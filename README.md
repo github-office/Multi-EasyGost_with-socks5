@@ -10,3 +10,4 @@
 ```shell
 wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/github-office/Multi-EasyGost_with-socks5/master/gost.sh && chmod +x gost.sh && ./gost.sh
 ```
+`gost_socks5.sh`增加了解密流量通过socks5转发的选项和配置
