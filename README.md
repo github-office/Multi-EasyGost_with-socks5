@@ -1,4 +1,6 @@
 # Multi-EasyGost_with-socks5
+原项目
+>https://github.com/KANIKIG/Multi-EasyGost
 在Multi-EasyGost的基础上，增加了通过socks5代理中转
 ![](https://raw.githubusercontent.com/github-office/Multi-EasyGost_with-socks5/master/说明.png)
 #使用方法
